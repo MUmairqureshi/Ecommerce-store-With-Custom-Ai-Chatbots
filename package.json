@@ -1,6 +1,6 @@
 {
-  "name": "/Coupon",
-  "homepage": "/Coupon",
+  "name": "/",
+  "homepage": "/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
